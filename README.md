@@ -29,7 +29,12 @@ Para iniciar el proyecto localmente se tiene que iniciar en consola con "Yarn ru
 Las tecnologias que se utilizaron en este proyecto fueron:
 
 ### React
-### JavaScript
+Esta es la tecnologia base de mi pagina web, maneja todas las funciones y mejora la IHC.
+### JavaScript (JSX)
+Esta extencion no es la misma que la javascrips que se utiliza normalmente ya que el JSX es una que se utiliza de manera constante con React ya que ayuda a "describir cómo debería ser la interfaz de usuario"
 ### Vite
+Es un compilador que mejora el tiempo y el uso de react ya que actualiza de manera constante el trabajo y se pueden ver los cambios inmediatamente
 ### Sass
+Es una mejora a CSS ya que cambia la manera en que se ordenan los documentos y mejora la interaccion con los desarrolladores.
 ### Firebase
+Firebase solo se uitiliza para que se pueda mostrar en la web mi pagina.
