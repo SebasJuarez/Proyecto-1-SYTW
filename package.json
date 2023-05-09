@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.7.4",
+    "react-simple-image-slider": "^2.4.1"
+  }
+}
