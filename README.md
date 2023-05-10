@@ -24,7 +24,12 @@ Este tiene dos archivos. El primero Navbar.jsx, maneja todos los datos y lo que 
 ### APP
 Luego se tiene el documento de app que es el que maneja toda la pagina web.
 
-Para iniciar el proyecto localmente se tiene que iniciar en consola con "Yarn run dev" que crea una pagina local en http://localhost:5173.
+Para iniciar el proyecto localmente se tiene que iniciar en consola con el codigo que se presenta a continuacion que crea una pagina local en http://localhost:5173.
+
+el codigo es:
+```bash
+yarn run dev
+```
 
 Las tecnologias que se utilizaron en este proyecto fueron:
 
